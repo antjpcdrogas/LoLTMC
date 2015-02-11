@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-io-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Libs/commons-io-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/org.json-20120521.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Libs/commons-io-1.4.jar!/" />
+    </SOURCES>
+  </library>
+</component>
